@@ -19,3 +19,5 @@ The following guides illustrate how to use some features concretely:
 
  kill -9 22821
 [root@VM-4-4-centos www.blog.com]# nohup java -jar blog-2.jar > logName.log 2>&1 &
+
+springboot+shiro+redis
